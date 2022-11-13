@@ -1,0 +1,13 @@
+type: edu
+files:
+- name: test/test.php
+  visible: false
+- name: src/task.php
+  visible: true
+  placeholders:
+  - offset: 273
+    length: 4
+    placeholder_text: // type here
+  - offset: 164
+    length: 62
+    placeholder_text: use loop here

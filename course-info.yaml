@@ -1,0 +1,7 @@
+type: marketplace
+title: exampleForAltShu
+language: English
+summary: Пример урока
+programming_language: PHP
+content:
+- lesson1
